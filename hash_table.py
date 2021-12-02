@@ -1,4 +1,4 @@
-# Problem 0 - Implement a Hash table.
+
 class HashTable():
 
     def __init__(self, initial_size, h):
